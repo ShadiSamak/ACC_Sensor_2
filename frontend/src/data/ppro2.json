@@ -1,0 +1,78 @@
+{
+    "sliderMarks1": [
+        {
+            "value": 0.2,
+            "label": "2:24"
+        },
+        {
+            "value": 0.3,
+            "label": "3:36"
+        },
+        {
+            "value": 0.4,
+            "label": "4:48"
+        },
+        {
+            "value": 0.5,
+            "label": "6:00"
+        },
+        {
+            "value": 0.6,
+            "label": "07:12"
+        },
+        {
+            "value": 0.7,
+            "label": "08:24"
+        },
+        {
+            "value": 0.8,
+            "label": "09:36"
+        },
+        {
+            "value": 0.9,
+            "label": "10:48"
+        },
+        {
+            "value": 1,
+            "label": "12:00"
+        }
+    ],
+    "sliderMarks2": [
+        {
+            "value": 0.2,
+            "label": "0.2"
+        },
+        {
+            "value": 0.3,
+            "label": "0.3"
+        },
+        {
+            "value": 0.4,
+            "label": "0.4"
+        },
+        {
+            "value": 0.5,
+            "label": "0.5"
+        },
+        {
+            "value": 0.6,
+            "label": "0.6"
+        },
+        {
+            "value": 0.7,
+            "label": "0.7"
+        },
+        {
+            "value": 0.8,
+            "label": "0.8"
+        },
+        {
+            "value": 0.9,
+            "label": "0.9"
+        },
+        {
+            "value": 1,
+            "label": "1"
+        }
+    ]
+}

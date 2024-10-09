@@ -1,0 +1,30 @@
+.divstyle{
+    display: flex !important; 
+    vertical-align: middle !important;
+    align-items: left;
+    text-align: left;
+}
+
+.cells{
+    width: 50vh;
+    vertical-align: middle !important;
+    align-items: center;
+}
+.cells-report{
+    width: 50vh;
+    vertical-align: middle !important;
+    align-items: center;
+    border: 1px solid #73a7f0;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.inp{
+    width: 10%;
+    height: 3vh;
+    margin-left: 5%;
+    border-radius: 4px;
+    border: 1px solid #73a7f0;
+    text-align:center;
+    
+}

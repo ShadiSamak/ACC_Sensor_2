@@ -1,0 +1,40 @@
+[
+    {   
+        "type":"cutpoint",
+        "author": "publication author",
+        "publisher": "internation publisher",
+        "year": "2022",
+        "paper_title": "a method in publishing",
+        "venue": "publish bank",
+        "point_1": "63.2",
+        "point_2": "142.6",
+        "point_3": "464.6"
+    },
+    {
+        "type":"cutpoint",
+        "author": "publication author2",
+        "publisher": "internation publisher2",
+        "year": "2021",
+        "paper_title": "a method in publishing2",
+        "venue": "publish bank2",
+        "point_1": "73.2",
+        "point_2": "152.6",
+        "point_3": "424.6"
+    },
+    {
+        "type":"detectionMetric",
+        "author": "publication author3",
+        "publisher": "internation publisher3",
+        "year": "1999",
+        "paper_title": "a method in publishing3",
+        "venue": "publish bank3"
+    },
+    {
+        "type":"detectionMetric",
+        "author": "publication author4",
+        "publisher": "internation publisher4",
+        "year": "2012",
+        "paper_title": "a method in publishing4",
+        "venue": "publish bank4"
+    }
+]

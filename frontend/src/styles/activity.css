@@ -1,0 +1,118 @@
+.startendbox{
+
+    display: flex;
+}
+
+.idbtn{
+    font-size: 10pt;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    border-width: 1px;
+}
+
+.listitems{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 40px;
+    vertical-align: middle;
+
+}
+
+.activitytitle{
+    font-size:x-large;
+    margin-left: 20px;
+}
+
+.listbox{
+    width: 50%;
+    margin-left: 10px;
+
+}
+
+.listboxsmall{
+    width: 15%;
+    margin-left: 10px;
+}
+
+.listboxsmallMed{
+    width: 20%;
+    margin-left: 10px;
+}
+
+.listboxmed{
+    width: 25%;
+}
+.listboxlrg{
+    width: 50%;
+}
+.listboxset{
+    display: flex !important ;
+    width: 25vh;
+    text-align: left;
+}
+
+.listboxsetmid{
+    display: flex !important ;
+    width: 32vh;
+    text-align: left;
+}
+.listboxsetlong{
+    display: flex !important ;
+    width: 50vh;
+    text-align: left;
+}
+.longlistbox{
+    display: flex !important ;
+    width: 75%;
+    margin-left: 10px;
+}
+
+.sliderstitle{
+    font-size:medium;
+}
+
+.slider{
+    display:flex;
+    gap: 15px;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.inoutbox{
+    width: 10%;
+    height: 7%;
+}
+
+.tableborder{
+    border-Color: black;
+    border-Style: solid;
+    border-width: 1px;
+}
+
+.tooltip{
+    width: 20vh;
+    background-color: white;
+    position:relative;
+    border:1px solid #73a7f0;
+    width:200px;
+    margin-left:20px;
+    padding:5px 14px;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    box-shadow:0px 0px 6px rgba(0, 0, 0, .7);
+    -webkit-box-shadow:-0px 0px 6px rgba(0, 0, 0, .7);
+    -moz-box-shadow:0px 0px 6px rgba(0, 0, 0, .7);
+}
+
+.longinput{
+    width : 100%!important;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.test{
+    display: flex !important;
+    text-align: left;
+}

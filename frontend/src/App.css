@@ -1,0 +1,126 @@
+
+.App {
+  background-color: #282c34;
+}
+
+:root {
+  --sdp-width: 70%;
+  --sdp-height: 70%;
+  --sdp-margin-top: 6%;
+  --sdp-margin-left: 15%;
+}
+
+.sdp {
+  width: var(--sdp-width);
+  height: var(--sdp-height);
+  margin-top: var(--sdp-margin-top);
+  margin-left: var(--sdp-margin-left);
+  background-color: rgb(242, 241, 241);
+  border-radius: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .sdp {
+    --sdp-width: 90%;
+    --sdp-height: 92%;
+    --sdp-margin-top: 4%;
+    --sdp-margin-left: 5%;
+  }
+
+  .application {
+    --app-margin-top: 2%;
+    --app-flex-direction: column;
+    --app-text-align: left;
+    --app-width: 90%;
+    --app-height: auto;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .sdp {
+    --sdp-width: 95%;
+    --sdp-height: 95%;
+    --sdp-margin-top: 2%;
+    --sdp-margin-left: 2.5%;
+  }
+  .application {
+    --app-margin-top: 4%;
+    --app-width: 95%;
+  }
+}
+
+.application {
+  margin-top: var(--app-margin-top);
+  display: flex; /* Use flexbox */
+  flex-direction: var(--app-flex-direction);
+  text-align: var(--app-text-align);
+  width: var(--app-width);
+  height: var(--app-height);
+  background-color: #282c34;
+  justify-content: center; /* Horizontally center children */
+}
+
+.logo{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  justify-content: right;
+  float: right; 
+  text-align: right;
+}
+
+.title{  
+  
+  text-align: center;
+  
+   }
+
+  .custom-table {
+    width: 100%;
+    margin-left: 20%;
+  }
+
+  .custom-table td {
+    padding: 8px;
+    text-align: left;
+  }
+
+.column-left {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+  }
+
+.column-right {
+    width: 20%;
+    justify-content: right;
+  }
+
+.App-header {
+  min-height: 2%;
+  display: flex !important;
+  justify-content: space-between; /* Items are spaced evenly with the left and right edges */
+  align-items: center; /* Items are centered vertically */
+  font-size: calc(1px + 1vmin);
+  color: white;
+  padding: 10px; 
+}
+
+.content {
+  overflow-y: auto;
+  overflow-x: auto;
+  padding: 20px;
+}
+
+
+/* Apply custom styles */
+:root {
+  --main-bg-color: #282c34; /* Define a CSS variable for the root background color */
+}
+
+body {
+  background-color: var(--main-bg-color);
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+}

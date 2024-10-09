@@ -1,0 +1,15 @@
+.mainBlock{
+    margin-left: 30pt;
+    text-align: left;
+    flex-direction: row; 
+    justify-content:left;
+    
+}
+
+.textblock{
+    margin-left: 40pt;
+}
+
+.butttons{
+    margin-left: 50pt
+}

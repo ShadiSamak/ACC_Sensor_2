@@ -1,0 +1,70 @@
+[
+    {
+        "window": "Analytical Strategy",
+        "note": "Strategy 1: time selection should be used, Strategy 2-> Midnight to midnight",
+        "visibility":["enable", "disable", "disable"],
+        "start":["0","10","15","20"],
+        "end":["12","24","36","48"],
+        "vals": [
+            { "value": "1", "label":"1", "disabled": false},
+            { "value": "2", "label":"2", "disabled": false},
+            { "value": "3", "label":"3", "disabled": true},
+            { "value": "4", "label":"4", "disabled": true}
+        ]
+    },
+    {
+        "window": "Device",
+        "vals": [
+            { "value": "activity", "label": "Activity" },
+            { "value": "movisens", "label": "Movisens" }
+        ]
+    },
+    {
+        "window": "Position",
+        "vals": [
+            { "value": "wrist", "label": "wrist" },
+            { "value": "hip", "label": "hip" },
+            { "value": "waist", "label": "waist" }
+        ]
+    },
+    {
+        "window": "Age-group",
+        "vals": [
+            { "value": "32", "label": "16-32" },
+            { "value": "60", "label": "40-60" }
+        ]
+    },
+    {
+        "window": "Cutpoints",
+        "vals": [
+            { "value": "32", "label": "16-32" },
+            { "value": "60", "label": "40-60" }
+        ] 
+    },
+    {
+        "window": "MVPA",
+        "vals": [
+            { "value": "1", "label": "1" },
+            { "value": "5", "label": "5" },
+            { "value": "10", "label": "10" }
+        ] 
+    },
+    {
+        "window": "TimeWindow",
+        "vals": [
+            { "value": "MM", "label": "MM" },
+            { "value": "WW", "label": "WW" }
+        ]
+    },
+    {
+        "window": "HASIB",
+        "vals": [
+            { "value": "vanHees2015", "label": "vanHees2015" },
+            { "value": "Sadeh1994" , "label": "Sadeh1994" },
+            { "value": "ColeKripke1992" , "label": "ColeKripke1992" },
+            { "value": "Galland2012" , "label": "Galland2012" },
+            { "value": "NotWorn", "label": "NotWorn" }
+        ]
+    }
+
+]

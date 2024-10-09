@@ -1,0 +1,43 @@
+# version: '2.2'
+
+# services:
+#   sensor-data-processor:
+#     build: .
+#     ports:
+#     - "8000:8080"
+#     volumes:
+#        - ./output:/app/backend/output
+#        - ./inputfile:/app/backend/inputfile
+
+version: '3'
+services:
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./output:/app/backend/output
+      - ./inputfile:/app/backend/inputfile
+
+
+# version: '3.8'
+
+# services:
+#   frontend:
+#     build:
+#       context: ./frontend
+#       dockerfile: Dockerfile
+#     ports:
+#       - "8000:5000"
+
+#   backend:
+#     build:
+#       context: ./backend
+#       dockerfile: Dockerfile
+#     ports:
+#       - "8080:8080"
+ 

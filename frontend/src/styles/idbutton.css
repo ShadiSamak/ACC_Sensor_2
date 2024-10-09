@@ -1,0 +1,31 @@
+
+.block {
+    width: 50px;
+    height: 30px;
+    border-width: 1px;
+    border-color: red;
+    vertical-align:middle;
+    text-align: center;
+  }
+
+.button{
+    width: 30px;
+    height: 30px;
+    border-width: 1px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius:4px;
+    border:1px solid #73a7f0;
+}
+
+.button:hover{
+    background-color: #73a7f0;
+}
+
+.title{
+    
+    height: 30px;
+    margin-left: 40px;
+    margin-right: 10px;
+    text-align:right;
+}

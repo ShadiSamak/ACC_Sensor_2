@@ -1,0 +1,30 @@
+[
+    {
+        "window": "window1",
+        "note": "Epoch length (sec)",
+        "vals": [
+            { "value": "400", "label": "400" },
+            { "value": "500", "label": "500" },
+            { "value": "700", "label": "700" },
+            { "value": "600", "label": "600" }
+        ]
+    },
+    {
+        "window": "window2",
+        "note": "Non-wear detection resolution (sec)",
+        "vals": [
+            { "value": "600", "label": "600" },
+            { "value": "700", "label": "700" },
+            { "value": "1600", "label": "1600" }
+        ]
+    },
+    {
+        "window": "window3",
+        "note": "Non-wear evaluation window (sec)",
+        "vals": [
+            { "value": "700", "label": "700" },
+            { "value": "800", "label": "800" },
+            { "value": "3600", "label": "3600" }
+        ]
+    }
+]

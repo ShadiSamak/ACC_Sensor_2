@@ -1,0 +1,62 @@
+[
+    {
+      "Country_City_Code": "Australia/ACT",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Adelaide",
+      "UTC": "+09:30"
+    },
+    {
+      "Country_City_Code": "Australia/Brisbane",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Canberra",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Currie",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Darwin",
+      "UTC": "+09:30"
+    },
+    {
+      "Country_City_Code": "Australia/Melbourne",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/North",
+      "UTC": "+09:30"
+    },
+    {
+      "Country_City_Code": "Australia/NSW",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Perth",
+      "UTC": "+08:00"
+    },
+    {
+      "Country_City_Code": "Australia/Queensland",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Sydney",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Tasmania",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/Victoria",
+      "UTC": "+10:00"
+    },
+    {
+      "Country_City_Code": "Australia/West",
+      "UTC": "+08:00"
+    }
+   ]

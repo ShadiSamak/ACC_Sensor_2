@@ -1,0 +1,548 @@
+[
+  {
+    "Group": "preschoolers",
+    "Age": "4-5 yr",
+    "Source": "Roscoe 2017*",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 61.8,
+      "Moderate": 100.4,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "preschoolers",
+    "Age": "4-5 yr",
+    "Source": "Roscoe 2017*",
+    "Device": "GENEActive",
+    "Placement": "Dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 94.5,
+      "Moderate": 108.5,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "8-14 yr",
+    "Source": "Phillips 2013*",
+    "Device": "GENEActive",
+    "Placement": "Left_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 87.5,
+      "Moderate": 250,
+      "Vigorous": 750
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "8-14 yr",
+    "Source": "Phillips 2013*",
+    "Device": "GENEActive",
+    "Placement": "Right_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 75,
+      "Moderate": 275,
+      "Vigorous": 700
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "8-14 yr",
+    "Source": "Phillips 2013*",
+    "Device": "GENEActive",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 37.5,
+      "Moderate": 212.5,
+      "Vigorous": 637.5
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "6-11 yr",
+    "Source": "Schaefer 2014*",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-bfen",
+    "Arguments_acc_metric": "BFEN",
+    "CutPoint": {
+      "Light": 190,
+      "Moderate": 314,
+      "Vigorous": 998
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "7-11 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "ActiGraph",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 35.6,
+      "Moderate": 201.4,
+      "Vigorous": 707
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "7-11 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 56.3,
+      "Moderate": 191.6,
+      "Vigorous": 695.8
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "7-11 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "ActiGraph",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 63.3,
+      "Moderate": 142.6,
+      "Vigorous": 464.6
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "7-11 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "GENEActive",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 64.1,
+      "Moderate": 152.8,
+      "Vigorous": 514.3
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "13-15 yr",
+    "Source": "Aittasalo 2015",
+    "Device": "ActiGraph",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": 26.9,
+      "Moderate": 332,
+      "Vigorous": 558.3
+    }
+  },
+  {
+    "Group": "children/adolescents",
+    "Age": "13-15 yr",
+    "Source": "Aittasalo 2015",
+    "Device": "Hookie-AM20",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": 28.7,
+      "Moderate": 338,
+      "Vigorous": 558.3
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "40-65 yr",
+    "Source": "Esliger 2011*",
+    "Device": "GENEActive",
+    "Placement": "Left_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 45,
+      "Moderate": 134,
+      "Vigorous": 377
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "40-65 yr",
+    "Source": "Esliger 2011*",
+    "Device": "GENEActive",
+    "Placement": "Right_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 80,
+      "Moderate": 92,
+      "Vigorous": 437
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "40-65 yr",
+    "Source": "Esliger 2011*",
+    "Device": "GENEActive",
+    "Placement": "Waist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 16,
+      "Moderate": 46,
+      "Vigorous": 428
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "21-61 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "ActiGraph",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 44.8,
+      "Moderate": 100.6,
+      "Vigorous": 428.8
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "21-61 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 45.8,
+      "Moderate": 93.2,
+      "Vigorous": 418.3
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "21-61 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "ActiGraph",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 47.4,
+      "Moderate": 69.1,
+      "Vigorous": 258.7
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "21-61 yr",
+    "Source": "Hildebrand 2014 2016",
+    "Device": "GENEActive",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 46.9,
+      "Moderate": 68.7,
+      "Vigorous": 266.8
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "35 (SD=11) yr",
+    "Source": "Vähä-Ypyä 2015",
+    "Device": "Hookie-AM20",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": "NA",
+      "Moderate": 91,
+      "Vigorous": 414
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "50-69 yr",
+    "Source": "Dillon 2016*,†",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 105.6,
+      "Moderate": 174.2,
+      "Vigorous": 330
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "50-69 yr",
+    "Source": "Dillon 2016*,†",
+    "Device": "GENEActive",
+    "Placement": "Dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 127.8,
+      "Moderate": 187.6,
+      "Vigorous": 396.4
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "23 (SD=4) yr",
+    "Source": "Buchan 2023*,†",
+    "Device": "activPAL",
+    "Placement": "Right_Thigh",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 26.4,
+      "Moderate": "NA",
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "adults",
+    "Age": "23 (SD=4) yr",
+    "Source": "Buchan 2023*,†",
+    "Device": "activPAL",
+    "Placement": "Right_Thigh",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": 30.1,
+      "Moderate": "NA",
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "60-86 yr",
+    "Source": "Sanders 2019*",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 20,
+      "Moderate": 32,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "60-86 yr",
+    "Source": "Sanders 2019**",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 57,
+      "Moderate": 104,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "60-86 yr",
+    "Source": "Sanders 2019*",
+    "Device": "ActiGraph",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 6,
+      "Moderate": 19,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "60-86 yr",
+    "Source": "Sanders 2019**",
+    "Device": "ActiGraph",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 15,
+      "Moderate": 69,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "≥70 yr (mean: 78.7 yr)",
+    "Source": "Migueles 2021",
+    "Device": "ActiGraph",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 18,
+      "Moderate": 60,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "≥70 yr (mean: 78.7 yr)",
+    "Source": "Migueles 2021",
+    "Device": "ActiGraph",
+    "Placement": "Dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 22,
+      "Moderate": 64,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "≥70 yr (mean: 78.7 yr)",
+    "Source": "Migueles 2021",
+    "Device": "ActiGraph",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmo",
+    "Arguments_acc_metric": "ENMO",
+    "CutPoint": {
+      "Light": 7,
+      "Moderate": 14,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "≥70 yr (mean: 77 yr)",
+    "Source": "Fraysse 2020†",
+    "Device": "GENEActive",
+    "Placement": "Non-dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 42.5,
+      "Moderate": 98,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "≥70 yr (mean: 77 yr)",
+    "Source": "Fraysse 2020†",
+    "Device": "GENEActive",
+    "Placement": "Dominant_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 62.5,
+      "Moderate": 92.5,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "70.7 (SD=14.1) yr",
+    "Source": "Dibben 2020‡",
+    "Device": "GENEActive",
+    "Placement": "Right_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 18.6,
+      "Moderate": 45.5,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "70.7 (SD=14.1) yr",
+    "Source": "Dibben 2020‡",
+    "Device": "GENEActive",
+    "Placement": "Right_Wrist",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": 18.3,
+      "Moderate": 26.2,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "70.7 (SD=14.1) yr",
+    "Source": "Dibben 2020‡",
+    "Device": "GENEActive",
+    "Placement": "Left_Wrist",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 16.7,
+      "Moderate": 43.6,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "70.7 (SD=14.1) yr",
+    "Source": "Dibben 2020‡",
+    "Device": "GENEActive",
+    "Placement": "Left_Wrist",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": 18.7,
+      "Moderate": 22.8,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "70.7 (SD=14.1) yr",
+    "Source": "Dibben 2020‡",
+    "Device": "GENEActive",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-enmoa",
+    "Arguments_acc_metric": "ENMOa",
+    "CutPoint": {
+      "Light": 7.6,
+      "Moderate": 40.6,
+      "Vigorous": "NA"
+    }
+  },
+  {
+    "Group": "older adults",
+    "Age": "70.7 (SD=14.1) yr",
+    "Source": "Dibben 2020‡",
+    "Device": "GENEActive",
+    "Placement": "Hip",
+    "Arguments_do-enmoa": "do-mad",
+    "Arguments_acc_metric": "MAD",
+    "CutPoint": {
+      "Light": 1,
+      "Moderate": 2.4,
+      "Vigorous": "NA"
+    }
+  }
+]
